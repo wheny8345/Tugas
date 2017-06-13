@@ -1,0 +1,3 @@
+Karena ada gangguan saat mengupload jadi saya menguploadnya saya bentuk .rar 
+dan karena github tidak bisa menerima ukuran yang besar ,
+maka .rar nya saya split atau dipecah pecah menjadi 8 bagian
